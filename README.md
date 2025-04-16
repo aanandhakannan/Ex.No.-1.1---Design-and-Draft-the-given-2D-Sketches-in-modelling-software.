@@ -1,5 +1,9 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+NAME:AANANDHA KANAN.S
+
+REG NO 212224040003
+
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +46,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+
+![Screenshot 2025-04-16 083012](https://github.com/user-attachments/assets/0a76d2d2-bc0e-4889-8174-e70cf2527568)
+
+
 
 
 ## RESULT
